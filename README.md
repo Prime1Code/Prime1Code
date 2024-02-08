@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Prime1Code)](https://github.com/Prime1Code/github-profile-trophy)
 
 <!--
