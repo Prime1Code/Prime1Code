@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prime1Code)](https://github.com/Prime1Code/github-profile-trophy)
+
 <!--
 **Prime1Code/Prime1Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
