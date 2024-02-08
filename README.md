@@ -1,5 +1,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Prime1Code)](https://github.com/Prime1Code/github-profile-trophy)
 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Prime1Code&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prime1Code&layout=compact" />
+</div>
+
 <!--
 **Prime1Code/Prime1Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
