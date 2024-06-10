@@ -9,10 +9,10 @@
 </div>
 
 <div style="display:flex">
-  <img src="exported-holo-pin(1).svg" width="128" />
-  <img src="exported-holo-pin(2).svg" width="128" />
-  <img src="exported-holo-pin(3).svg" width="128" />
-  <img src="exported-holo-pin(4).svg" width="128" />
+  <img src="csm.svg" width="128" />
+  <img src="yolo.svg" width="128" />
+  <img src="shark.svg" width="128" />
+  <img src="quickdraw.svg" width="128" />
 </div>
 
 <!--
