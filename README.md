@@ -8,7 +8,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prime1Code&layout=compact" />
 </div>
 
-<img src="exported-holo-pin(1).svg" width="256" />
+<div style="display:flex">
+  <img src="exported-holo-pin(1).svg" width="256" />
+  <img src="exported-holo-pin(2).svg" width="256" />
+  <img src="exported-holo-pin(3).svg" width="256" />
+  <img src="exported-holo-pin(4).svg" width="256" />
+</div>
 
 <!--
 **Prime1Code/Prime1Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
